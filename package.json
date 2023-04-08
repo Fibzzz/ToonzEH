@@ -1,0 +1,19 @@
+{
+  "name": "dtproject2",
+  "version": "1.0.0",
+  "description": "A Discord bot for finding Detonated Toonz by Degen Toonz variants",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "bden",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.3.0",
+    "node-fetch": "^3.3.1"
+  }
+}
